@@ -65,6 +65,8 @@ sup, .sup {
 
 .background-image {
   background-position: center center;
+  height: 500px;
+  width: 100%;
   background-size: cover;
 }
 
